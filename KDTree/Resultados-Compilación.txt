@@ -1,0 +1,78 @@
+﻿'KDTree.exe' (Win32): 'C:\Users\nibar\OneDrive\Documents\EDA\KDTree\Release\KDTree.exe' cargado. Símbolos cargados.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\ntdll.dll' cargado. Símbolos cargados.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\KernelBase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\apphelp.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\vcruntime140.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\opengl32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\glu32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\msvcrt.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\msvcrt.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\msvcrt.dll' descargado
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\advapi32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\user32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Users\nibar\OneDrive\Documents\EDA\KDTree\freeglut.dll' cargado. El módulo se compiló sin símbolos.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\sechost.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\win32u.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\rpcrt4.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\sspicli.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\gdi32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\cryptbase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\bcryptprimitives.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\gdi32full.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\msvcp_win.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\winmm.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' descargado
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\cfgmgr32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' descargado
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\imm32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\uxtheme.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\combase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\msctf.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\oleaut32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\dwmapi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\crypt32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\msasn1.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\cryptsp.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvaci.inf_amd64_c888a17f1918f3da\nvdlist.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_b5d4c82c67b39358\ig9icd32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_b5d4c82c67b39358\ig9icd32.dll' descargado
+'KDTree.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_b5d4c82c67b39358\ig9icd32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\shell32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\dxgi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\wtsapi32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\SHCore.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\windows.storage.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\profapi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\powrprof.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\shlwapi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' descargado
+'KDTree.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvaci.inf_amd64_c888a17f1918f3da\nvdlist.dll' descargado
+El subproceso 0x1fd4 terminó con código 0 (0x0).
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\ResourcePolicyClient.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\ResourcePolicyClient.dll' descargado
+'KDTree.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvaci.inf_amd64_c888a17f1918f3da\nvdlist.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' descargado
+'KDTree.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvaci.inf_amd64_c888a17f1918f3da\nvdlist.dll' descargado
+El subproceso 0xc40 terminó con código 0 (0x0).
+'KDTree.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_b5d4c82c67b39358\igc32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\TextInputFramework.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\CoreUIComponents.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\CoreMessaging.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\WinTypes.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\ntmarta.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\WinTypes.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'KDTree.exe' (Win32): 'C:\Windows\SysWOW64\WinTypes.dll' descargado
+El subproceso 0x378c terminó con código 0 (0x0).
+El subproceso 0x9c8 terminó con código 0 (0x0).
+El subproceso 0x1460 terminó con código 0 (0x0).
+El subproceso 0x28c4 terminó con código 0 (0x0).
+El subproceso 0x1230 terminó con código 0 (0x0).
+El programa '[6196] KDTree.exe' terminó con código 0 (0x0).
